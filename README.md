@@ -22,5 +22,5 @@ Add our deep IT and cybersecurity expertise to your projects.
 <li>to learn and to teach what is wise, what is good, what is true, by doing charity work, supporting emerging talents, and helping disadvantaged people.
 </ul>
 
-(c) H-X Technologies, All rights reserved<br>
+(c) H-X Technologies<br>
 https://www.h-x.technology/
