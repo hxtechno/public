@@ -1,5 +1,3 @@
-# public
-
 <h1> This is an official public repository of H-X Technologies</h1>
 
 <strong>We assess, develop, implement, certify and maintain secure systems. 
