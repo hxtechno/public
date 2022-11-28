@@ -5,13 +5,15 @@ We teach security.
 Add our deep IT and cybersecurity expertise to your projects.
 </strong>
 
+<a href='https://www.h-x.technology/company'>About us</a> | <a href='https://www.h-x.technology/doing-business-together'>Partnership</a> | <a href='https://www.h-x.technology/services'>Services</a> | <a href='https://www.h-x.technology/offers/blockchain-cryptocurrency'>Web3</a>
+
 <h2>High qualification, flexibility and reliability are our selling points:</h2>
 <ul>
 <li>Highest customization and flexibility
 <li>International security certifications
 <li>Absolute reliability
 <li>Experience in IT and information security
-<li>vHighest quality
+<li>Highest quality
 <li>Sustaining our team
 </ul>
 
