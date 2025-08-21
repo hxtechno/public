@@ -9,19 +9,19 @@ Add our deep IT and cybersecurity expertise to your projects.
 
 <h2>High qualification, flexibility and reliability are our selling points:</h2>
 <ul>
-<li>Highest customization and flexibility
-<li>International security certifications
-<li>Absolute reliability
-<li>Experience in IT and information security
-<li>Highest quality
-<li>Sustaining our team
+<li>Maximum benefit for any client
+<li>International certificates and independent assessment
+<li>A culture of continuous improvement
+<li>Reliability is not in words, but in actions
+<li>Experience proven by time and real projects
+<li>Freedom, trust and growth within the team
 </ul>
 
 <h2>Our mission is:</h2>
 <ul>
-<li>to help our customers and the entire planet to develop secure information technologies. With great satisfaction, we make this world more comfortable and more secure.
-<li>to help our team members self-actualize. We are convinced that professional achievements and constructive communications allow us to achieve not only career and material goals, and improve intellectually, but also grow spiritually.
-<li>to learn and to teach what is wise, what is good, what is true, by doing charity work, supporting emerging talents, and helping disadvantaged people.
+<li>To empower clients with secure IT solutions. With great satisfaction, we make this world more comfortable and more secure. </li>
+<li>To foster professional growth. We are convinced that professional success and constructive communication enable us to achieve not only career and material goals, but also intellectual and spiritual growth. </li>
+<li>To promote knowledge and charity by supporting emerging talents and helping disadvantaged people. </li>
 </ul>
 
 (c) H-X Technologies<br>
